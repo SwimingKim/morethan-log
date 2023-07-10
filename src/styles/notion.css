@@ -48,6 +48,10 @@ svg + .notion-page-title-text {
   @apply text-gray-600 dark:text-gray-300;
 }
 
+.notion-code {
+  width: 100vw;
+}
+
 .notion-code > code {
   @apply text-gray-900;
 }
@@ -98,4 +102,8 @@ pre[class*="language-"] {
 
 .notion-hr {
   border-top: 1px solid rgba(55, 53, 47, 0.16);
+}
+
+.notion-asset-wrapper-image > div {
+  align-self: baseline !important;
 }
