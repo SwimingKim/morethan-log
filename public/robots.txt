@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://morethan-log.vercel.app
+Host: https://notion-blog-dw284vtkp-swimingkim.vercel.app/
 
 # Sitemaps
-Sitemap: https://morethan-log.vercel.app/sitemap.xml
+Sitemap: https://notion-blog-dw284vtkp-swimingkim.vercel.app/sitemap.xml
