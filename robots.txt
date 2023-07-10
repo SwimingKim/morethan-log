@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://notion-blog-dw284vtkp-swimingkim.vercel.app/
+
+# Sitemaps
+Sitemap: https://notion-blog-dw284vtkp-swimingkim.vercel.app/sitemap.xml
