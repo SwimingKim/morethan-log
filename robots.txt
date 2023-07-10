@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://github.com/swimingkim/blog
+Host: https://swimingkim.github.io/blog
 
 # Sitemaps
-Sitemap: https://github.com/swimingkim/blog/sitemap.xml
+Sitemap: https://swimingkim.github.io/blog/sitemap.xml
