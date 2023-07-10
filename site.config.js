@@ -2,9 +2,9 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "devskim",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
+    image: "/emoji.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "developer",
+    bio: "No pain no gain.",
     email: "rumex13@naver.com",
     linkedin: "rumex13",
     github: "swimingkim",
@@ -12,15 +12,15 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `devskim blog`,
       href: "https://github.com/swimingkim/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
-    theme: "auto", // ['light', 'dark', 'auto']
+    title: "devskim blog",
+    description: "welcome to devskim blog!",
+    theme: "light", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)

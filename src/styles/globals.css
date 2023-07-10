@@ -69,6 +69,7 @@ body::-webkit-scrollbar-thumb {
 
 .mobile-x-scroll {
   overflow-x: scroll;
+  overflow: auto;
 }
 
 @media (max-width: 768px) {
@@ -90,4 +91,10 @@ body::-webkit-scrollbar-thumb {
   .mobile-x-scroll {
     overflow-x: hidden;
   }
+}
+
+.tags_line {
+  /* overflow: visible; */
+  overflow-x: auto;
+  /* width: 80vw; */
 }
